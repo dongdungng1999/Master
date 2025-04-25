@@ -1,0 +1,5 @@
+age = int
+income = high, low, medium
+student = yes, no
+credit-rating = fair, excellent
+buy = yes, no
